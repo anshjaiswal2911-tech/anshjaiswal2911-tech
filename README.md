@@ -81,7 +81,18 @@
 | 🌌 [**MindVerse**](https://github.com/anshjaiswal2911-tech/mindVerse-website) | An AI-powered mental wellness platform offering an engaging and accessible user experience. | HTML · CSS · JavaScript |
 
 <br/>
+## 🏅 Certifications
 
+| 📜 Certificate | 🏢 Issuer | 📅 Year |
+|----------------|-----------|----------|
+| Microsoft Applied Skills: Generate Reports with AI Research Agents | Microsoft | 2026 |
+| Protect Sensitive Data with Data Loss Prevention Skill Badge | Google | 2026 |
+| Machine Learning with Python | IBM | 2026 |
+| MongoDB Overview: Core Concepts and Architecture | MongoDB | 2026 |
+| Introduction to Data Science | Cisco | 2026 |
+| Claude Code in Action | Anthropic | 2026 |
+| Data Analytics Job Simulation | Deloitte Australia (Forage) | 2026 |
+| Software Engineering Job Simulation | JPMorgan Chase & Co. (Forage) | 2026 |
 ## 📊 GitHub Stats
 
 <div align="center">
