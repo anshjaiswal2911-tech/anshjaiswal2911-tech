@@ -40,7 +40,6 @@
 
 <br/>
 
-## 🛠️ Tech Stack
 
 ## 🛠️ Skills & Technologies
 
