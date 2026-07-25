@@ -10,7 +10,7 @@
 
 <br/>
 
-🚀 I build full-stack web applications and AI-powered systems, and I'm actively involved in the open-source community as an **E-Cell IIT Bombay Campus Ambassador**, **GeeksforGeeks Campus Mantri**, and **Microsoft Student Ambassador**.
+🚀 I build full-stack web applications and AI-powered systems, and I'm actively involved in the open-source community as an **E-Cell IIT Bombay Campus Ambassador**, **GeeksforGeeks Campus Mantri**, and **Microsoft Associate Ambassador**.
 
 - 🔭 **Currently building:** Full-stack and AI-driven products (multi-agent systems, healthcare-tech, and community platforms)
 - 🌱 **Currently learning:** Java, DSA, MERN Stack, Cloud Computing, and System Design
