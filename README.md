@@ -11,6 +11,10 @@
   <br/><br/>
 
   <!-- High-Impact Quick Connect Badges -->
+  <a href="https://my-portfolio-seven-murex-99.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/ansh-jaiswal-4bb5243a2" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -165,16 +169,20 @@ Beyond writing code, I actively build developer ecosystems as an **E-Cell IIT Bo
 
 ### `05 ──` 🚀 Featured Production Projects
 
-| 🚀 Project | 🎯 Architecture & Highlights | 🛠️ Tech Stack | 🔗 Links |
+| 🚀 Project | 🎯 Architecture & Highlights | 🛠️ Tech Stack | 🔗 Status & Links |
 |:---|:---|:---|:---:|
-| 🤖 **AUTC – AI Universal Task Companion** | Multi-agent autonomous system orchestrating **6 specialized AI agents** in parallel to execute complex research, planning, and coding workflows. | `React` `TypeScript` `Gemini AI` `Multi-Agent` | [Source Code](https://github.com/anshjaiswal2911-tech/The-Ai-Universal-Task-C-companion) |
-| 🌐 **PGT Global Network (GSSoC)** | Production-grade open-source collaboration platform engineered for GirlScript Summer of Code developers and community contributors. | `React` `TypeScript` `Vite` `Tailwind` | [Source Code](https://github.com/anshjaiswal2911-tech/PGT_Global_Network_GSSoC) |
-| 🏥 **MedConnect** | Full-fledged healthcare tele-portal connecting patients with verified medical practitioners, secure appointment flows, and record access. | `React` `TypeScript` `Node.js` `REST APIs` | [Source Code](https://github.com/anshjaiswal2911-tech/med-connect-website) |
-| 🛡️ **LEX Shield** | AI-assisted legal-tech platform designed to democratize legal literacy, consumer awareness, and instant regulatory guidance. | `React` `TypeScript` `Vite` `AI Guidance` | [Source Code](https://github.com/anshjaiswal2911-tech/LEX-SHIELD-WEBSITE) |
-| 📶 **SmartQueue India** | Intelligent queue management and real-time wait-time optimization system aimed at minimizing civic and commercial bottlenecks. | `React` `TypeScript` `Queue Logic` | [Source Code](https://github.com/anshjaiswal2911-tech/smartqueue-india-website) |
-| 🤝 **Find Teammates** | Interactive matchmaking platform for developers, designers, and students to form agile hackathon squads and project teams. | `React` `JavaScript` `Vercel` `UI/UX` | [Live App](https://find-teammates.vercel.app/) |
-| 🚦 **Smart Traffic Management** | Urban transit optimization platform utilizing intelligent traffic flow logic to dynamically reduce congestion and idling. | `HTML5` `CSS3` `JavaScript` | [Live App](https://smart-trafic.vercel.app/) |
-| 🌌 **MindVerse** | Interactive digital mental wellness sanctuary offering mindfulness resources, mood trackers, and accessible support. | `HTML5` `CSS3` `JavaScript` | [Source Code](https://github.com/anshjaiswal2911-tech/mindVerse-website) |
+| ⚖️ **TRUVA — National Metrology & AI Enforcement** | **Statutory Metrology & Fair Commerce Enforcement Platform** (SIH 2026 Winner Grade). Features automated Rule 6(1) audit, shrinkflation detection, Rule 9 geometric font analysis, SHA-256 cryptographic evidence trail, and Section 39 compounding legal notices. | `React 19` `TypeScript` `FastAPI` `Python` `Capacitor` `Supabase` | [🌐 Live Portal](https://circus-marketing-teaching-src.trycloudflare.com/)<br/>[📱 Mobile App](https://circus-marketing-teaching-src.trycloudflare.com/?view=mobile)<br/>[💻 Source Code](https://github.com/anshjaiswal2911-tech/TRUVA-) |
+| 🎙️ **GramVoice-Ai — Multilingual Voice Assistant** | **Rural Governance & Inclusive Voice AI Platform** featuring dual-language auto-detection, PWA mobile install & native Capacitor Android bridging, Supabase PostgreSQL, and offline service worker caching (38+ commits, 37 deployments). | `TypeScript` `React` `Capacitor Android` `Supabase` `Voice AI` | [🚀 Live App](https://gram-voice-ai.vercel.app/)<br/>[💻 Source Code](https://github.com/anshjaiswal2911-tech/GramVoice-Ai) |
+| ⚡ **CodeVariant — Collaborative Canvas Engine** | **High-Throughput Collaborative Engineering Workspace** built on React 19 and Vite 8 featuring Canvas Protocol workflow, warm sandstone claymorphic design, and grounded contextual AI replies (223+ commits). | `React 19` `Vite 8` `TypeScript` `Canvas Protocol` `Tailwind` | [🚀 Live App](https://team-hashing-code-variant.vercel.app/)<br/>[💻 Source Code](https://github.com/anshjaiswal2911-tech/Team-Hashing-CodeVariant) |
+| 🌌 **3D Cosmic Developer Portfolio** | **Modern High-Performance Interactive Portfolio** featuring 3D cosmic animations, persistent Supabase PostgreSQL client integration for inquiries, sleek glassmorphism, and optimized edge delivery. | `React` `JavaScript` `Tailwind CSS` `Supabase PostgreSQL` `Vite` | [🚀 Live App](https://my-portfolio-seven-murex-99.vercel.app/)<br/>[💻 Source Code](https://github.com/anshjaiswal2911-tech/My-Portfolio) |
+| 🤖 **AUTC – AI Universal Task Companion** | Multi-agent autonomous system orchestrating **6 specialized AI agents** in parallel to execute complex research, planning, and coding workflows via Gemini API. | `React` `TypeScript` `Gemini AI` `Multi-Agent` `Vite` | [💻 Source Code](https://github.com/anshjaiswal2911-tech/The-Ai-Universal-Task-C-companion) |
+| 🌐 **PGT Global Network (GSSoC)** | Production-grade open-source collaboration platform engineered for GirlScript Summer of Code developers and community contributors. | `React` `TypeScript` `Vite` `Tailwind CSS` | [💻 Source Code](https://github.com/anshjaiswal2911-tech/PGT_Global_Network_GSSoC) |
+| 🤝 **Find Teammates** | Interactive matchmaking platform for developers, designers, and students to form agile hackathon squads and project teams in real time. | `React` `JavaScript` `Vercel` `UI/UX` | [🚀 Live App](https://find-teammates.vercel.app/) |
+| 🚦 **Smart Traffic Management** | Urban transit optimization platform utilizing intelligent traffic flow logic to dynamically reduce intersection congestion and idling. | `HTML5` `CSS3` `JavaScript` | [🚀 Live App](https://smart-trafic.vercel.app/) |
+| 🏥 **MedConnect** | Full-fledged healthcare tele-portal connecting patients with verified medical practitioners, secure appointment flows, and digital records. | `React` `TypeScript` `Node.js` `REST APIs` | [💻 Source Code](https://github.com/anshjaiswal2911-tech/med-connect-website) |
+| 🛡️ **LEX Shield** | AI-assisted legal-tech platform designed to democratize legal literacy, consumer awareness, and instant regulatory guidance. | `React` `TypeScript` `Vite` `AI Guidance` | [💻 Source Code](https://github.com/anshjaiswal2911-tech/LEX-SHIELD-WEBSITE) |
+| 📶 **SmartQueue India** | Intelligent queue management and real-time wait-time optimization system aimed at minimizing civic and commercial bottlenecks. | `React` `TypeScript` `Queue Logic` | [💻 Source Code](https://github.com/anshjaiswal2911-tech/smartqueue-india-website) |
+| 🧠 **MindVerse** | Interactive digital mental wellness sanctuary offering mindfulness resources, mood trackers, and accessible support. | `HTML5` `CSS3` `JavaScript` | [💻 Source Code](https://github.com/anshjaiswal2911-tech/mindVerse-website) |
 
 <br/>
 
