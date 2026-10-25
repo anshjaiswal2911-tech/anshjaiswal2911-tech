@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:8B2FC9,100:FE428E&height=230&section=header&text=Ansh%20Jaiswal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20Multi-Agent%20AI%20Systems%20%7C%20Java%20DSA&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="Ansh Jaiswal Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:161b22,80:1e293b,100:3b82f6&height=230&section=header&text=Ansh%20Jaiswal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20Multi-Agent%20AI%20Systems%20%7C%20Java%20DSA&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="Ansh Jaiswal Banner" />
 
   <!-- Animated Typing Tagline -->
   <a href="https://github.com/anshjaiswal2911-tech">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&width=750&lines=Full-Stack+%26+Multi-Agent+AI+Systems+Architect;B.Tech+Computer+Engineering+Student;Active+LeetCode+Problem+Solver+(Java+DSA);E-Cell+IIT+Bombay+Campus+Ambassador;Microsoft+Associate+Ambassador+%26+GFG+Campus+Mantri;Open+Source+Contributor+%40+GSSoC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=750&lines=Full-Stack+%26+Multi-Agent+AI+Systems+Architect;B.Tech+Computer+Engineering+Student;Active+LeetCode+Problem+Solver+(Java+DSA);E-Cell+IIT+Bombay+Campus+Ambassador;Microsoft+Associate+Ambassador+%26+GFG+Campus+Mantri;Open+Source+Contributor+%40+GSSoC" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -243,24 +243,24 @@ Beyond writing code, I actively build developer ecosystems as an **E-Cell IIT Bo
   <br/><br/>
 
   <!-- Dual Stat Cards Layout -->
-  <img src="https://github-readme-stats.shion.dev/api?username=anshjaiswal2911-tech&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=false" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=anshjaiswal2911-tech&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="175" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anshjaiswal2911-tech&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anshjaiswal2911-tech&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="175" alt="Top Languages" />
 
   <br/><br/>
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=anshjaiswal2911-tech&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=anshjaiswal2911-tech&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
   <br/><br/>
 
   <!-- GitHub Profile Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=anshjaiswal2911-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anshjaiswal2911-tech&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
   <br/><br/>
 
   <!-- Developer Motivation Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
 
 </div>
 
@@ -278,7 +278,7 @@ Beyond writing code, I actively build developer ecosystems as an **E-Cell IIT Bo
   </p>
 
   <a href="mailto:anshjaiswal2911@gmail.com">
-    <img src="https://img.shields.io/badge/Say_Hello-anshjaiswal2911%40gmail.com-FE428E?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello" />
+    <img src="https://img.shields.io/badge/Say_Hello-anshjaiswal2911%40gmail.com-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/ansh-jaiswal-4bb5243a2">
@@ -288,11 +288,11 @@ Beyond writing code, I actively build developer ecosystems as an **E-Cell IIT Bo
   <br/><br/>
 
   <!-- Visitor Counter Badge -->
-  <img src="https://komarev.com/ghpvc/?username=anshjaiswal2911-tech&label=PROFILE%20VIEWS&color=8B2FC9&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anshjaiswal2911-tech&label=PROFILE%20VIEWS&color=0077B5&style=for-the-badge" alt="Profile Views" />
 
   <br/><br/>
 
   <!-- Footer Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FE428E,50:8B2FC9,100:141321&height=110&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,20:1e293b,55:161b22,100:0d1117&height=110&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
