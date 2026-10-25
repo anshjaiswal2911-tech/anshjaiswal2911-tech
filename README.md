@@ -1,141 +1,290 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:8B2FC9,100:FE428E&height=200&section=header&text=Hi,%20I'm%20Ansh%20Jaiswal%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,50:8B2FC9,100:FE428E&height=230&section=header&text=Ansh%20Jaiswal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20Multi-Agent%20AI%20Systems%20%7C%20Java%20DSA&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="Ansh Jaiswal Banner" />
 
-<a href="https://github.com/anshjaiswal2911-tech">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FE428E&center=true&vCenter=true&width=650&lines=B.Tech+Computer+Engineering+Student;Full-Stack+%26+AI+Developer;Open+Source+Contributor;E-Cell+IIT+Bombay+Campus+Ambassador;GeeksforGeeks+Campus+Mantri" alt="Typing SVG" />
-</a>
+  <!-- Animated Typing Tagline -->
+  <a href="https://github.com/anshjaiswal2911-tech">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&width=750&lines=Full-Stack+%26+Multi-Agent+AI+Systems+Architect;B.Tech+Computer+Engineering+Student;Active+LeetCode+Problem+Solver+(Java+DSA);E-Cell+IIT+Bombay+Campus+Ambassador;Microsoft+Associate+Ambassador+%26+GFG+Campus+Mantri;Open+Source+Contributor+%40+GSSoC" alt="Typing SVG" />
+  </a>
 
-</div>
+  <br/><br/>
 
-<br/>
-
-🚀 I build full-stack web applications and AI-powered systems, and I'm actively involved in the open-source community as an **E-Cell IIT Bombay Campus Ambassador**, **GeeksforGeeks Campus Mantri**, and **Microsoft Associate Ambassador**.
-
-- 🔭 **Currently building:** Full-stack and AI-driven products (multi-agent systems, healthcare-tech, and community platforms)
-- 🌱 **Currently learning:** Java, DSA, MERN Stack, Cloud Computing, and System Design
-- 👯 **Open to collaborating on:** Open Source, Hackathons, and impactful full-stack/AI projects
-- 💬 **Ask me about:** Java, GitHub, Web Development, AI, and Community Leadership
-- 📫 **Reach me at:** [anshjaiswal2911@gmail.com](mailto:anshjaiswal2911@gmail.com)
-
-<br/>
-
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
-## 🌐 Connect with me
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshcreation.32)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FE428E.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ansh-jaiswal-4bb5243a2)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnshJaiswa62344)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshjaiswal2911@gmail.com)
-
-</div>
-
-<br/>
-
-
-## 🛠️ Skills & Technologies
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,c,cpp&perline=8" />
-</p>
-
-### 🚀 Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vite&perline=8" />
-</p>
-
-### ☁️ Databases, Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase,vercel,docker&perline=8" />
-</p>
-
-### 🤖 AI, Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,tensorflow&perline=8" />
-</p>
-
----
-<br/>
-
-## 🚀 Featured Projects
-
-| 🚀 Project | 📝 Description | 🛠️ Tech |
-|---|---|---|
-| 🌐 [**PGT Global Network – GSSoC**](https://github.com/anshjaiswal2911-tech/PGT_Global_Network_GSSoC) | Production-grade full-stack platform developed for GSSoC contributors under the PGT Global Network. | React · TypeScript · Vite |
-| 🤖 [**AUTC – AI Universal Task Companion**](https://github.com/anshjaiswal2911-tech/The-Ai-Universal-Task-C-companion) | A multi-agent AI system that collaborates across six specialized AI agents to solve real-world tasks. | React · TypeScript · Gemini AI |
-| 🏥 [**MedConnect**](https://github.com/anshjaiswal2911-tech/med-connect-website) | A healthcare platform designed to connect patients and healthcare providers seamlessly. | React · TypeScript |
-| 🛡️ [**LEX Shield**](https://github.com/anshjaiswal2911-tech/LEX-SHIELD-WEBSITE) | A legal-tech platform focused on accessible legal support, awareness, and guidance. | React · TypeScript |
-| 📶 [**SmartQueue India**](https://github.com/anshjaiswal2911-tech/smartqueue-india-website) | AI-powered smart queue management system designed to reduce waiting times and improve service efficiency. | React · TypeScript |
-| 🧠 [**Mental Health Project**](https://github.com/anshjaiswal2911-tech/mentalhealth-project) | A digital platform promoting mental well-being through awareness, resources, and support. | HTML · CSS · JavaScript |
-| 🤝 [**Find Teammates**](https://find-teammates.vercel.app/) | A platform that helps students and developers find teammates for hackathons, projects, and open-source contributions. | React · JavaScript · Vercel |
-| 🚦 [**Smart Traffic**](https://smart-trafic.vercel.app/) | A smart traffic management solution focused on improving urban traffic flow using intelligent technologies. | HTML · CSS · JavaScript |
-| 🌌 [**MindVerse**](https://github.com/anshjaiswal2911-tech/mindVerse-website) | An AI-powered mental wellness platform offering an engaging and accessible user experience. | HTML · CSS · JavaScript |
-
-<br/>
-## 🏅 Certifications
-
-| 📜 Certificate | 🏢 Issuer | 📅 Year |
-|----------------|-----------|----------|
-| Microsoft Applied Skills: Generate Reports with AI Research Agents | Microsoft | 2026 |
-| Protect Sensitive Data with Data Loss Prevention Skill Badge | Google | 2026 |
-| Machine Learning with Python | IBM | 2026 |
-| MongoDB Overview: Core Concepts and Architecture | MongoDB | 2026 |
-| Introduction to Data Science | Cisco | 2026 |
-| Claude Code in Action | Anthropic | 2026 |
-| Data Analytics Job Simulation | Deloitte Australia (Forage) | 2026 |
-| Software Engineering Job Simulation | JPMorgan Chase & Co. (Forage) | 2026 |
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=anshjaiswal2911-tech&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-<br/>
-![](https://streak-stats.demolab.com/?user=anshjaiswal2911-tech&theme=radical&hide_border=false)
-<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anshjaiswal2911-tech&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <!-- High-Impact Quick Connect Badges -->
+  <a href="https://linkedin.com/in/ansh-jaiswal-4bb5243a2" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/anshjaiswal2911/" target="_blank">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/anshjaiswal2911-tech" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:anshjaiswal2911@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/AnshJaiswa62344" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/anshcreation.32" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=anshjaiswal2911-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
-### ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=anshjaiswal2911-tech&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-</div>
+<br/>
 
 ---
 
+### `01 ──` 👨‍💻 About Me
+
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  Ansh Jaiswal                                                                │
+│  B.Tech Computer Engineering | Full-Stack & Multi-Agent AI Engineer          │
+│  Location: India | Focus: Scalable Systems, Algorithms & AI Automation       │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+I am a passionate **Software Engineer and Full-Stack Developer** focused on building high-performance web systems and autonomous **Multi-Agent AI** platforms. I thrive at the crossroads of rigorous algorithmic problem solving, clean architecture, and modern product engineering.
+
+Beyond writing code, I actively build developer ecosystems as an **E-Cell IIT Bombay Campus Ambassador**, **GeeksforGeeks Campus Mantri**, and **Microsoft Associate Ambassador**.
+
+- 🔭 **Currently Architecting:** Multi-Agent AI orchestration pipelines, scalable health-tech platforms, and developer tooling.
+- 🧩 **Algorithmic Mastery:** Solving real-world problems daily using **Java & Data Structures & Algorithms** on LeetCode.
+- 🌱 **Continuous Learning:** Distributed Systems, Cloud Architecture (Supabase / Docker), Microservices, and Advanced System Design.
+- 🤝 **Open for Collaboration:** High-impact Open Source projects, Hackathons, and AI-driven products.
+- 📫 **Direct Inquiries:** [anshjaiswal2911@gmail.com](mailto:anshjaiswal2911@gmail.com)
+
+<br/>
+
+---
+
+### `02 ──` 🏗️ System Architecture & Engineering Mindset
+
+```
+┌────────────────────────────────────────────────────────────────────────────────┐
+│                        FULL-STACK & AI ARCHITECTURE PIPELINE                   │
+└───────────────────────────────────────┬────────────────────────────────────────┘
+                                        │
+      ┌─────────────────────────────────┴─────────────────────────────────┐
+      ▼                                                                   ▼
+ [ 01. Problem & Logic ]                                         [ 02. Multi-Agent AI ]
+ • Data Structures & Algorithms                                  • Autonomous Agent Swarms
+ • Space/Time Optimization (Java/C++)                            • Gemini API & Prompt Pipelines
+      │                                                                   │
+      └─────────────────────────────────┬─────────────────────────────────┘
+                                        │
+                                        ▼
+                           [ 03. Modern Frontend Layer ]
+                           • High-Fidelity UI (React · Vite · Tailwind)
+                           • Robust Type Safety & State (TypeScript)
+                                        │
+                                        ▼
+                           [ 04. Scalable Backend & Cloud ]
+                           • Event-Driven APIs (Node.js · Express)
+                           • Flexible Data Models (MongoDB · Supabase · MySQL)
+                           • Containerization & Edge Hosting (Docker · Vercel)
+                                        │
+                                        ▼
+                           [ 05. Production & Open-Source ]
+                           • GirlScript Summer of Code (GSSoC) Platform
+                           • High-Reliability Healthcare & Community Systems
+```
+
+<br/>
+
+---
+
+### `03 ──` 🧩 Algorithmic Problem Solving & LeetCode
+
+<p align="center">
+  <b>Actively honing algorithmic intuition, time-space complexity optimization, and Data Structures in Java.</b>
+</p>
+
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=anshjaiswal2911-tech&icon=0&color=0)](https://visitcount.itsvg.in)
+  <!-- Interactive Dynamic LeetCode Activity Card -->
+  <a href="https://leetcode.com/u/anshjaiswal2911/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/anshjaiswal2911?theme=dark&font=baloo&ext=activity" alt="Ansh Jaiswal LeetCode Live Status" width="560" />
+  </a>
 
-*Thanks for visiting my profile! Feel free to connect or check out my repositories.* ⭐
+  <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FE428E,50:8B2FC9,100:141321&height=100&section=footer" width="100%"/>
+  <!-- LeetCode Badges & Highlights -->
+  <a href="https://leetcode.com/u/anshjaiswal2911/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode_Profile-anshjaiswal2911-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/50_Days_Badge-2026_Earned-FFD700?style=for-the-badge&logo=target&logoColor=black" alt="50 Days Badge 2026" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Primary_Language-Java_DSA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java DSA" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Daily_Streak-Active-00E676?style=for-the-badge&logo=codeforces&logoColor=black" alt="Daily Streak Active" />
+
+</div>
+
+<br/>
+
+---
+
+### `04 ──` 🛠️ Technical Arsenal
+
+<div align="center">
+
+#### 💻 Core Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,c,cpp,html,css&perline=8&theme=dark" alt="Languages" />
+</p>
+
+#### ⚡ Frontend & UI Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,bootstrap&perline=8&theme=dark" alt="Frontend" />
+</p>
+
+#### ☁️ Backend, Databases & Cloud Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase,firebase,vercel&perline=8&theme=dark" alt="Backend & Cloud" />
+</p>
+
+#### 🤖 AI, DevOps & Developer Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,postman,figma,tensorflow&perline=8&theme=dark" alt="AI & Tools" />
+</p>
+
+</div>
+
+<br/>
+
+---
+
+### `05 ──` 🚀 Featured Production Projects
+
+| 🚀 Project | 🎯 Architecture & Highlights | 🛠️ Tech Stack | 🔗 Links |
+|:---|:---|:---|:---:|
+| 🤖 **AUTC – AI Universal Task Companion** | Multi-agent autonomous system orchestrating **6 specialized AI agents** in parallel to execute complex research, planning, and coding workflows. | `React` `TypeScript` `Gemini AI` `Multi-Agent` | [Source Code](https://github.com/anshjaiswal2911-tech/The-Ai-Universal-Task-C-companion) |
+| 🌐 **PGT Global Network (GSSoC)** | Production-grade open-source collaboration platform engineered for GirlScript Summer of Code developers and community contributors. | `React` `TypeScript` `Vite` `Tailwind` | [Source Code](https://github.com/anshjaiswal2911-tech/PGT_Global_Network_GSSoC) |
+| 🏥 **MedConnect** | Full-fledged healthcare tele-portal connecting patients with verified medical practitioners, secure appointment flows, and record access. | `React` `TypeScript` `Node.js` `REST APIs` | [Source Code](https://github.com/anshjaiswal2911-tech/med-connect-website) |
+| 🛡️ **LEX Shield** | AI-assisted legal-tech platform designed to democratize legal literacy, consumer awareness, and instant regulatory guidance. | `React` `TypeScript` `Vite` `AI Guidance` | [Source Code](https://github.com/anshjaiswal2911-tech/LEX-SHIELD-WEBSITE) |
+| 📶 **SmartQueue India** | Intelligent queue management and real-time wait-time optimization system aimed at minimizing civic and commercial bottlenecks. | `React` `TypeScript` `Queue Logic` | [Source Code](https://github.com/anshjaiswal2911-tech/smartqueue-india-website) |
+| 🤝 **Find Teammates** | Interactive matchmaking platform for developers, designers, and students to form agile hackathon squads and project teams. | `React` `JavaScript` `Vercel` `UI/UX` | [Live App](https://find-teammates.vercel.app/) |
+| 🚦 **Smart Traffic Management** | Urban transit optimization platform utilizing intelligent traffic flow logic to dynamically reduce congestion and idling. | `HTML5` `CSS3` `JavaScript` | [Live App](https://smart-trafic.vercel.app/) |
+| 🌌 **MindVerse** | Interactive digital mental wellness sanctuary offering mindfulness resources, mood trackers, and accessible support. | `HTML5` `CSS3` `JavaScript` | [Source Code](https://github.com/anshjaiswal2911-tech/mindVerse-website) |
+
+<br/>
+
+---
+
+### `06 ──` 🏅 Verified Industry Certifications & Simulations
+
+| 📜 Credential Title | 🏢 Organization / Issuer | 📅 Year | 🏷️ Domain Focus |
+|:---|:---|:---:|:---|
+| **Microsoft Applied Skills:** Generate Reports with AI Research Agents | **Microsoft** | 2026 | `Multi-Agent AI & LLM Systems` |
+| **Protect Sensitive Data with Data Loss Prevention** Skill Badge | **Google Cloud** | 2026 | `Cloud Security & Compliance` |
+| **Claude Code in Action** | **Anthropic** | 2026 | `AI-Assisted Software Development` |
+| **Machine Learning with Python** | **IBM** | 2026 | `Machine Learning & Data Science` |
+| **MongoDB Overview:** Core Concepts & Architecture | **MongoDB** | 2026 | `NoSQL Database Architecture` |
+| **Introduction to Data Science** | **Cisco** | 2026 | `Data Analysis & Analytics` |
+| **Software Engineering Job Simulation** | **JPMorgan Chase & Co. (Forage)** | 2026 | `Enterprise Software Engineering` |
+| **Data Analytics Job Simulation** | **Deloitte Australia (Forage)** | 2026 | `Business Intelligence & Data Modeling` |
+
+<br/>
+
+---
+
+### `07 ──` 🌟 Leadership & Community Impact
+
+```text
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│  LEADERSHIP & AMBASSADORSHIP PORTFOLIO                                           │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│  🏛️ E-Cell IIT Bombay Campus Ambassador                                          │
+│     Fostering entrepreneurship, startup culture, and organizing national         │
+│     hackathons and technical initiatives across university student communities.  │
+│                                                                                  │
+│  💚 GeeksforGeeks Campus Mantri                                                  │
+│     Empowering peers with Data Structures & Algorithms, coding problem-solving   │
+│     bootcamps, and technical interview preparation workshops.                    │
+│                                                                                  │
+│  🔷 Microsoft Associate Ambassador                                               │
+│     Spearheading cloud and developer student evangelism around AI technologies,  │
+│     Microsoft developer tools, and cutting-edge software paradigms.              │
+│                                                                                  │
+│  🌐 Open Source Contributor @ GirlScript Summer of Code (GSSoC)                  │
+│     Actively contributing to production repositories, resolving issues, and      │
+│     collaborating with global open-source developers.                             │
+└──────────────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
+
+### `08 ──` 📊 GitHub Analytics & Activity Stream
+
+<div align="center">
+
+  <!-- Contribution Streak Animation (Snake) -->
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake contribution animation" width="100%" />
+
+  <br/><br/>
+
+  <!-- Dual Stat Cards Layout -->
+  <img src="https://github-readme-stats.shion.dev/api?username=anshjaiswal2911-tech&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=false" height="175" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anshjaiswal2911-tech&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="175" alt="Top Languages" />
+
+  <br/><br/>
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=anshjaiswal2911-tech&theme=radical&hide_border=false" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- GitHub Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=anshjaiswal2911-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+
+  <br/><br/>
+
+  <!-- Developer Motivation Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
+
+</div>
+
+<br/>
+
+---
+
+### `09 ──` 🤝 Let's Connect & Build Together
+
+<div align="center">
+
+  <p>
+    Whether you are looking to collaborate on an open-source initiative, discuss multi-agent AI systems,<br/>
+    participate in a hackathon, or discuss engineering roles — my inbox is always open!
+  </p>
+
+  <a href="mailto:anshjaiswal2911@gmail.com">
+    <img src="https://img.shields.io/badge/Say_Hello-anshjaiswal2911%40gmail.com-FE428E?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ansh-jaiswal-4bb5243a2">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Visitor Counter Badge -->
+  <img src="https://komarev.com/ghpvc/?username=anshjaiswal2911-tech&label=PROFILE%20VIEWS&color=8B2FC9&style=for-the-badge" alt="Profile Views" />
+
+  <br/><br/>
+
+  <!-- Footer Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FE428E,50:8B2FC9,100:141321&height=110&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
